@@ -12,7 +12,7 @@ Warrior Run is a 3D adventure game built with Unity. Players explore maze-like l
 - Main menu and UI transitions
 - Background music and SFX
 
-## 🛠Built With
+## Built With
 
 - Unity Game Engine
 - C# scripting
